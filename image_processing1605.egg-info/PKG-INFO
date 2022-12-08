@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: image-processing1605
+Version: 0.0.2
+Summary: Image processing Package using skimage
+Home-page: https://github.com/edsonmy/dio-image-processing1605
+Author: emy
+Author-email: edsonmy@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing1605
 
 Description. 
@@ -18,7 +30,7 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing1605
+pip install image-processing1605
 ```
 
 ## Author
@@ -26,3 +38,4 @@ emy by Karina Kato (DIO)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
